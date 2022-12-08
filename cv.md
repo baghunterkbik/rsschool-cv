@@ -15,3 +15,31 @@
   - *Сreativity, non-standard approach to the problem*
   - *Honesty, understanding*
   - *Teamwork*
+
+## Skills
+***
+- *Basic Photoshop and Illustrator skills*
+- *Figma*
+- *Git/GitHub*
+- *Base markdown*
+- *"CS50" video course*
+- *HTML&CSS course "Code Basics"*
+- *HTML&CSS Udemy*
+
+## Code Examples
+***
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+## Education
+***
+- **Belarusian State Agrarian Technical University** (Faculty of Entrepreneurship and Management)
+- **The Rolling Scopes School** (JS/Frontend development course) - *I tried to start from the first stage 1, but did not master it. Now I am gaining experience and I will start a new path from the stage 0.*
+
+## Languages
+***
+- *Russian - native speaker.*
+- *English - A2 (B1 in process…)*
