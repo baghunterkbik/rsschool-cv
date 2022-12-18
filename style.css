@@ -1,0 +1,112 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color:coral;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a:hover {
+    color: black;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+
+
+.header {
+    background-color:firebrick;
+}
+
+.main {
+    background-color:rgb(39, 37, 37);
+}
+
+.footer {
+    background-color: firebrick;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: orange;
+    transition: 0.5s;
+}
+
+.contacts-link {
+    text-decoration: none;
+    color: orange;
+    transition: 0.5s;
+}
+
+.projects-link {
+    text-decoration: none;
+    color: orange;
+    transition: 0.5s;
+}
+
+.author-link {
+    text-decoration: none;
+    color: orange;
+    transition: 0.5s;
+    padding-left: 20px;
+}
+
+.projects a:hover {
+    color:firebrick;
+}
+
+.contacts-list a:hover {
+    color:firebrick;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+}
+
+.myself-photo {
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+}
+
+footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
